@@ -1,1 +1,4 @@
-console.log("hii");
+obj = {
+  name: 1,
+};
+console.log(Object.is());
